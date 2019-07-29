@@ -1,0 +1,9 @@
+echo test;
+-. . -..- - / . -. - .-. -.--
+die();
+-. . -..- - / . -. - .-. -.--
+count($settings);
+-. . -..- - / . -. - .-. -.--
+echo count($settings);
+-. . -..- - / . -. - .-. -.--
+var_dump($settings);

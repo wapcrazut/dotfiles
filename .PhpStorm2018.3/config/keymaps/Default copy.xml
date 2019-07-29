@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+    <keyboard-shortcut first-keystroke="shift ctrl inverted_exclamation_mark" />
+  </action>
+</keymap>

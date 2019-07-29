@@ -1,0 +1,161 @@
+<application>
+  <component name="FeatureUsageStatistics" first-run="1551954680533" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="editing.completion.smarttype.afternew" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.camelHumps" count="77" last-shown="0" last-used="1564047168274" shown-count="0" />
+    <feature id="codeassists.surroundwith.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="595" last-shown="0" last-used="1564146849318" shown-count="0" />
+    <feature id="navigation.popup.action" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.cancelByControlArrows" count="1" last-shown="0" last-used="1555062244159" shown-count="0" />
+    <feature id="editing.completion.finishBySmartEnter" count="0" last-shown="1564048602520" last-used="0" shown-count="18" />
+    <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.replace" count="12" last-shown="1564057552600" last-used="1564057552860" shown-count="55802" />
+    <feature id="switcher" count="42" last-shown="0" last-used="1559919131135" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="1" last-shown="0" last-used="1559817819109" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.variable.name" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="2" last-shown="0" last-used="1564057541384" shown-count="0" />
+    <feature id="db.console.run.intention" count="1068" last-shown="0" last-used="1562139746340" shown-count="0" />
+    <feature id="db.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.console.execute" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.recent.files" count="20" last-shown="0" last-used="1561993810780" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="2665" last-shown="0" last-used="1564145497333" shown-count="0" />
+    <feature id="scratch" count="2" last-shown="0" last-used="1552552604008" shown-count="0" />
+    <feature id="editing.completion.finishByDotEtc" count="1" last-shown="1564048602520" last-used="1557482256417" shown-count="35" />
+    <feature id="navigation.goto.implementation" count="6" last-shown="0" last-used="1562143599190" shown-count="0" />
+    <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.tree.speedsearch" count="26" last-shown="0" last-used="1563263959627" shown-count="0" />
+    <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.comment.line" count="472" last-shown="0" last-used="1564145150693" shown-count="0" />
+    <feature id="codeassists.highlight.return" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.camelprefix" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="SearchEverywhere" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.class" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.table.editor.wrapper" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="1564048602520" last-used="0" shown-count="18" />
+    <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="9387" last-shown="0" last-used="1564148704052" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="diagram.show.popup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="diagram.show.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="23644" last-shown="0" last-used="1564148700768" shown-count="0" />
+    <feature id="editing.add.carets.using.double.ctrl" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.console" count="26" last-shown="0" last-used="1561988266755" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.highlight.implements" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.smarttype.general" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassist.inspect.batch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.table.editor" count="687" last-shown="0" last-used="1564137146223" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.ctrln" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="5" last-shown="0" last-used="1563866892469" shown-count="0" />
+    <feature id="codeassists.comment.block" count="4" last-shown="0" last-used="1558338507050" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="1" last-shown="1564048602520" last-used="1552920040311" shown-count="18" />
+    <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="diagram.show" count="4" last-shown="0" last-used="1558600347757" shown-count="0" />
+    <feature id="editing.completion.second.basic" count="11" last-shown="0" last-used="1564048602507" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="63779" />
+      <option name="invocations" value="8172" />
+      <option name="startDate" value="1551999600000" />
+      <option name="dayCount" value="81" />
+      <option name="lastDate" value="1564092000000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="107" />
+      <option name="startDate" value="1552258800000" />
+      <option name="dayCount" value="27" />
+      <option name="lastDate" value="1563314400000" />
+    </fixesStatsTag>
+  </component>
+  <component name="PhpLanguageFeatureUsagesStatistics">
+    <project hash="d116d25d">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="82a879c6" />
+    <project hash="18aa7ffd">
+      <feature name="VAR_CONTINUE_ARGUMENT" />
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="CLASS_MEMBER_ACCESS_ON_INSTANTIATION" />
+      <feature name="THIS_IN_CLOSURE" />
+      <feature name="FINALLY" />
+      <feature name="GENERATORS" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="IMMEDIATE_DEREFERENCING" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="VARIADIC_FUNCTIONS" />
+      <feature name="ARGUMENT_UNPACKING" />
+      <feature name="USE_FUNCTION_AND_CONST" />
+      <feature name="RETURN_TYPES" />
+      <feature name="SCALAR_TYPE_HINTS" />
+      <feature name="SPACESHIP_OPERATOR" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="KEYWORD_NAMES" />
+      <feature name="UNIFORM_VARIABLE_SYNTAX" />
+      <feature name="NULLABLES" />
+      <feature name="CLASS_CONSTANT_VISIBILITY" />
+      <feature name="LIST_ASSIGN" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="FLEXIBLE_HEREDOCS" />
+    </project>
+    <project hash="87f1beff">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+    </project>
+    <project hash="93d71f4a">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="IMMEDIATE_DEREFERENCING" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="UNIFORM_VARIABLE_SYNTAX" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="81e38b51">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="CLASS_MEMBER_ACCESS_ON_INSTANTIATION" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="RETURN_TYPES" />
+      <feature name="COALESCE_OPERATOR" />
+    </project>
+    <project hash="a6696aa">
+      <feature name="RETURN_TYPES" />
+    </project>
+    <project hash="b28c28db">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="RETURN_TYPES" />
+    </project>
+    <project hash="4e322919" />
+    <project hash="7be29fbd" />
+    <project hash="980b88a8">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="RETURN_TYPES" />
+    </project>
+  </component>
+</application>

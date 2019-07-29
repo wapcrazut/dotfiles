@@ -1,0 +1,41 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.15.3/bin/node">
+      <version-cache version="10.15.3" last-modified="1551801171000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="70-73-76-255,,,0-0-0-255,,,248-252-255-255,,,51-51-51-255,,,48-133-214-255,,,60-60-60-255,,,255-0-187-255,,,255-64-138-255,,,108-242-99-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="GenericSQL" />
+    <property name="Darcula.SavedEditorTheme" value="Sublime Monokai True" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Yaml File" />
+    <property name="INSPECTION_FILTER_HISTORY" value="SQL" />
+    <property name="InstalledPluginsSearchHistory" value="Indexing&#10;Theme&#10;Data" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="Indexing&#10;cli&#10;cli in&#10;Data source&#10;SQL Diale" />
+    <property name="SplitFileEditor.Proportion" value="0.42885247" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="sonarlint&#10;material&#10;Theme&#10;One Dark&#10;Data" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="com.intellij.database.actions.ToolActions$ScriptingActionBase$1.previewExpanded" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.docker.view.DockerViewContribution.0" value="169" />
+    <property name="evlsprt3.183" value="11" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Projects/leadbox-landings&#10;/home/adgo/Projects/laradock/docker-compose.yml&#10;/home/adgo/Projects/leadbox/public&#10;/home/adgo/Projects&#10;/home/adgo/Projects/leadbox&#10;/home/adgo/Projects/laradock&#10;/home/adgo/Projects/leadbox/bin&#10;/home/adgo/Projects/apitemporal&#10;/home/adgo/Projects/leadbrain&#10;/home/adgo/Downloads/dump_leadbox/dump-leadbox_lead_es-201906061156.sql&#10;/home/adgo/Downloads/dump_leadbox/dump-leadbox_core-201906061156.sql&#10;/home/adgo/Documentos/dump_leadbox/dump-leadbox_lead_pl-201906061156.sql&#10;/home/adgo/Documentos/dump_leadbox/dump-leadbox_lead_it-201906061156.sql&#10;/home/adgo/Documentos/dump_leadbox/dump-leadbox_lead_fr-201906061156.sql&#10;/home/adgo/Documentos/dump_leadbox/dump-leadbox_lead_au-201906061156.sql&#10;/home/adgo/Documentos/dump_leadbox/dump-leadbox_lead_es-201906061156.sql&#10;/home/adgo/Documentos/dump_leadbox/dump-leadbox_core-201906061156.sql&#10;/home/adgo/Projects/dockbox/docker-compose.yml&#10;/home/adgo/Descargas/dump-sending-leadbox_lead_es-201906031428.sql&#10;/home/adgo/Descargas/dump-sending-leadbox_core-201906031428.sql&#10;/home/adgo/Descargas/dump-sending-leadbox_lead_es-201905291044.sql&#10;/home/adgo/Descargas/dump-sending-leadbox_core-201905291041.sql&#10;/home/adgo/Downloads/dump-sending-leadbox_lead_es-201905221203.sql&#10;/home/adgo/Downloads/dump-sending-leadbox_core-201905221204.sql&#10;/home/adgo/Projects/csvmanager&#10;/home/adgo/Projects/catchmail&#10;/home/adgo/Projects/adapter&#10;/home/adgo/Projects/integracion2&#10;/home/adgo/Projects/affiliate&#10;/home/adgo/Descargas/Monokai Sublime Text 3.jar" />
+    <property name="file.gist.reindex.count" value="367199" />
+    <property name="fileTypeChangedCounter" value="67" />
+    <property name="lastTip" value="15" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="selected.color.option.type" value="DEFAULT_IDENTIFIER" />
+    <property name="settings.code.style.selected.tab.PHP" value="Arrangement" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>

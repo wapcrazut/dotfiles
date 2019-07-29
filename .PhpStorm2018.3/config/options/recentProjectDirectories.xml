@@ -1,0 +1,184 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Projects/leadbox" />
+        <option value="$USER_HOME$/Projects/apitemporal" />
+        <option value="$USER_HOME$/Projects/leadbrain" />
+        <option value="$USER_HOME$/Projects/affiliate" />
+        <option value="$USER_HOME$/Projects/catchmail" />
+        <option value="$USER_HOME$/Projects/adapter" />
+        <option value="$USER_HOME$/Projects/integracion2" />
+        <option value="$USER_HOME$/Projects/csvmanager" />
+        <option value="$USER_HOME$/Projects/symfony3" />
+        <option value="$USER_HOME$/Projects/LeadBox" />
+        <option value="$USER_HOME$/Projects/dockbox" />
+        <option value="$USER_HOME$/Projects/core" />
+        <option value="$USER_HOME$/PhpstormProjects/untitled" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Projects/leadbox" />
+      </list>
+    </option>
+    <option name="names">
+      <map>
+        <entry key="$USER_HOME$/Projects/adapter" value="adapter, apitemporal" />
+        <entry key="$USER_HOME$/Projects/apitemporal" value="apitemporal, adapter..." />
+        <entry key="$USER_HOME$/Projects/core" value="core, affiliate..." />
+        <entry key="$USER_HOME$/Projects/leadbox" value="LeadBox, leadbox-landings" />
+      </map>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Projects/leadbox" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PhpstormProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1551960392671" />
+              <option name="buildTimestamp" value="1549627734455" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/LeadBox">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1552644449118" />
+              <option name="buildTimestamp" value="1549627719323" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/adapter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557928581478" />
+              <option name="buildTimestamp" value="1549627735729" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/affiliate">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560331769340" />
+              <option name="buildTimestamp" value="1549627723414" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/apitemporal">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563174751360" />
+              <option name="buildTimestamp" value="1549627726792" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/catchmail">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557929016082" />
+              <option name="buildTimestamp" value="1549627735729" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/core">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1552643707996" />
+              <option name="buildTimestamp" value="1549627719323" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/csvmanager">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1555412022899" />
+              <option name="buildTimestamp" value="1549627689936" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/dockbox">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1552644422423" />
+              <option name="buildTimestamp" value="1549627719323" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/integracion2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557909186038" />
+              <option name="buildTimestamp" value="1549627735729" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/leadbox">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564392010144" />
+              <option name="buildTimestamp" value="1549627686139" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/leadbrain">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562835992853" />
+              <option name="buildTimestamp" value="1549627707717" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/symfony3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-183.5429.47" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1554393834744" />
+              <option name="buildTimestamp" value="1549627717346" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PhpstormProjects" />
+  </component>
+</application>

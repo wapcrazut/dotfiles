@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <removed_mapping pattern="settings.yaml" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
